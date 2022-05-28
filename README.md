@@ -3,7 +3,7 @@
 ### About Me
 👨‍💻 I'm Max, a Software Engineer at [Caleb & Brown](https://www.calebandbrown.com/), working on backend applications and services that will enable the business to have a revolutionary effect on the Cryptocurrency space.
 
-📚 I'm keenly interested in the world of software development, and regularly read articles from HackerNews, Lobsters, daily.dev and TLDR. A language I would love to set time aside to learn is Rust 🦀.
+📚 I'm keenly interested in the world of software development, and regularly read articles from HackerNews, Lobsters, daily.dev and TLDR.
 
 🏃‍♂️ My hobbies include socialising with friends, travelling, exercise and always setting myself physical challenges: from [Muay Thai](https://www.youtube.com/watch?v=7igLgJUmsng&t=181s) to half marathons to cycling the [NC500](https://www.northcoast500.com/).
 
@@ -30,6 +30,10 @@
 ### Infrastructure
 ![gcp](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=GoogleCloud&logoColor=white)
 ![terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white)
+
+## Currently Learning
+Rust 🦀
+Chess ♟
 
 ## Stats
 ![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdeburnay)
