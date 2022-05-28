@@ -32,13 +32,9 @@
 ![terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white)
 
 ## Stats
-### My Languages
 ![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdeburnay)
 
-### GitHub Activity
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=mdeburnay
-)
-
 ## Get in touch
+<a href="https://github.com/mdeburnay"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" /></a> 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
