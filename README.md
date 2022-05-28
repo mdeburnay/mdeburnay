@@ -9,4 +9,4 @@
 
 ## Get in touch
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-![linkedin](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+![linkedin](https://img.shields.io/badge/LinkedIn?style=for-the-badge&logo=<LinkedIn&logoColor=#0A66C2)
