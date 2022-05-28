@@ -36,4 +36,4 @@
 
 ## Get in touch
 <a href="https://github.com/mdeburnay"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/max-de-burnay-bastos-009b65197"><img src="[https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)" /></a>
+<a href="https://www.linkedin.com/in/max-de-burnay-bastos-009b65197"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
