@@ -5,7 +5,7 @@
 
 📚 Outside of work, I like to keep on top of the latest news within the world of software, reading articles from HackerNews, Lobsters, daily.dev and TLDR.
 
-🏃‍♂️ My hobbies include socialising with friends, a lot of exercise and always setting mysel physical challenges: from [Muay Thai fights](https://www.youtube.com/watch?v=7igLgJUmsng&t=181s) to half marathons to cycling the [NC500](https://www.northcoast500.com/).
+🏃‍♂️ My hobbies include socialising with friends, exercise and always setting myself physical challenges: from [Muay Thai](https://www.youtube.com/watch?v=7igLgJUmsng&t=181s) to half marathons to cycling the [NC500](https://www.northcoast500.com/).
 
 ## Languages
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
