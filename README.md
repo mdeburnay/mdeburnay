@@ -8,7 +8,7 @@
 🏃‍♂️ My hobbies include socialising with friends, a lot of exercise and always setting myself a yearly physical challenge. This year will be cycling the [NC500](https://www.northcoast500.com/) 🚴‍♂️
 
 ## Skills
-![nestjs](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NextJS&logoColor=white)
+![nestjs](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white)
 
 
 ## Get in touch
