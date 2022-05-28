@@ -27,6 +27,9 @@
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
 ![tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=Tailwind&logoColor=white)
 
+## Cloud
+![gcp](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=GoogleCloud&logoColor=white)
+
 ## Stats
 ![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdeburnay)
 
