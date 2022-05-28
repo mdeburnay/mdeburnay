@@ -32,8 +32,8 @@
 ![terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white)
 
 ## Currently Learning
-Rust 🦀
-Chess ♟
+- Rust 🦀
+- Chess ♟
 
 ## Stats
 ![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdeburnay)
