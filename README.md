@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## About Me
+### About Me
 👨‍💻 I'm Max, a Software Engineer at [Caleb & Brown](https://www.calebandbrown.com/), working on backend applications and services that will enable the business to have a revolutionary effect on the Cryptocurrency space.
 
 📚 I'm keenly interested in the world of software development, and regularly read articles from HackerNews, Lobsters, daily.dev and TLDR. A language I would love to set time aside to learn Rust 🦀.
