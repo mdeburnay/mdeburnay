@@ -5,7 +5,7 @@
 
 📚 Outside of work, I like to keep on top of the latest news within the world of software, reading articles from HackerNews, Lobsters, daily.dev and TLDR.
 
-🏃‍♂️ My hobbies include socialising with friends, a lot of exercise and always setting myself a yearly physical challenge. This year will be cycling the [NC500](https://www.northcoast500.com/) 🚴‍♂️
+🏃‍♂️ My hobbies include socialising with friends, a lot of exercise and always setting mysel physical challenges: from [Muay Thai fights](https://www.youtube.com/watch?v=7igLgJUmsng&t=181s) to half marathons to cycling the [NC500](https://www.northcoast500.com/).
 
 ## Languages
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
@@ -26,6 +26,9 @@
 ![rollup](https://img.shields.io/badge/Rollup-EC4A3F?style=for-the-badge&logo=rollup.js&logoColor=white)
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
 ![tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=Tailwind&logoColor=white)
+
+## Stats
+https://github-readme-stats.vercel.app/api/top-langs/?username=mdeburnay
 
 ## Get in touch
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
