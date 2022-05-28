@@ -22,8 +22,8 @@
 
 ## Frontend Frameworks/Libraries
 ![react](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
-![nextjs](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=NextJS&logoColor=white)
-![rollup](https://img.shields.io/badge/Rollup-EC4A3F?style=for-the-badge&logo=Rollup&logoColor=white)
+![nextjs](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
+![rollup](https://img.shields.io/badge/Rollup-EC4A3F?style=for-the-badge&logo=rollup.js&logoColor=white)
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
 ![tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=Tailwind&logoColor=white)
 
