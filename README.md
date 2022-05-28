@@ -28,7 +28,7 @@
 ![tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=Tailwind&logoColor=white)
 
 ## Stats
-https://github-readme-stats.vercel.app/api/top-langs/?username={mdeburnay}
+![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdeburnay)
 
 ## Get in touch
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
