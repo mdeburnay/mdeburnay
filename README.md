@@ -32,7 +32,12 @@
 ![terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white)
 
 ## Stats
+### My Languages
 ![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdeburnay)
+
+### GitHub Activity
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=mdeburnay
+)
 
 ## Get in touch
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
