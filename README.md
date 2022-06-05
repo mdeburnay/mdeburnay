@@ -3,7 +3,7 @@
 ### About Me
 👨‍💻 I'm Max, a Software Engineer at [Caleb & Brown](https://www.calebandbrown.com/).
 
-📚 I'm keenly interested in the world of software development, and regularly read articles from HackerNews, Lobsters, daily.dev and TLDR.
+📚 Interested in the world of software development, and regularly read articles from HackerNews, Lobsters, daily.dev and TLDR.
 
 🏃‍♂️ My hobbies include socialising with friends, travelling, exercise and always setting myself physical challenges: from [Muay Thai](https://www.youtube.com/watch?v=7igLgJUmsng&t=181s) to half marathons to cycling the [NC500](https://www.northcoast500.com/).
 
