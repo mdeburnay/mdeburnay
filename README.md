@@ -9,6 +9,7 @@
 ### Languages
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ### Backend Frameworks/Libraries
 ![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
@@ -28,10 +29,6 @@
 ### Infrastructure
 ![gcp](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=GoogleCloud&logoColor=white)
 ![terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white)
-
-## Currently Learning
-### Rust 🦀
-### Chess ♟
 
 ## Stats
 ![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdeburnay)
