@@ -3,8 +3,6 @@
 ### About Me
 👨‍💻 I'm Max, a Software Engineer at [Caleb & Brown](https://www.calebandbrown.com/).
 
-🏃‍♂️ Runner
-
 ## Tech Skills
 ### Languages
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
